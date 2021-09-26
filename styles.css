@@ -14,7 +14,7 @@ h1 {
 }
 
 .app {
-  background: #209cee;
+  background: #ccdce7;
   padding: 30px;
   height: 100vh;
 }
@@ -31,7 +31,7 @@ h1 {
   background: #fff;
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
   padding: 3px 10px;
-  font-size: 24px;
+  font-size: 20px;
   margin-bottom: 6px;
   border-radius: 3px;
   display: flex;
@@ -47,7 +47,7 @@ h1 {
   box-shadow: none;
   padding: 1rem;
   height: 2.25em;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .remove {
